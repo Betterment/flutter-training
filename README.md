@@ -2,4 +2,5 @@
 
 - Overview
 - Code of conduct
-- Computer setup
+- Setup
+	- Flutter setup: Run `/scripts/setup.sh`
