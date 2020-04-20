@@ -1,0 +1,22 @@
+Starting subtask with log string: Installing Flutter
+~/flutter ~/src/flutter-training/SetupFlutter.app/Contents
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+error: pathspec 'v1.17.0' did not match any file(s) known to git
+~/src/flutter-training/SetupFlutter.app/Contents
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel unknown, v1.14.6, on Mac OS X 10.15.4 19E287, locale en-US)
+[✓] Android toolchain - develop for Android devices (Android SDK version 29.0.2)
+[!] Xcode - develop for iOS and macOS (Xcode 11.2.1)
+    ✗ CocoaPods not installed.
+        CocoaPods is used to retrieve the iOS and macOS platform side's plugin code that responds to your plugin usage on the Dart side.
+        Without CocoaPods, plugins will not work on iOS or macOS.
+        For more info, see https://flutter.dev/platform-plugins
+      To install:
+        sudo gem install cocoapods
+[✓] Android Studio (version 3.6)
+[✓] VS Code (version 1.43.1)
+[✓] Connected device (2 available)
+
+! Doctor found issues in 1 category.
+Downloading Android Maven dependencies...                       
