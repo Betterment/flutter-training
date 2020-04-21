@@ -4,7 +4,9 @@ Make sure you're running on a macOS computer running Mojave or Catalina.
 
 <br/>
 
-**Engineers**: Please follow Steps 3 and 4.
+**Engineers**:
+- iOS Engineers: Please follow Steps 2, 3, and 4.
+- Android Engineers: Please follow Steps 1, 3, and 4.
 
 **Non-Engineers**: Please follow all steps.
 
