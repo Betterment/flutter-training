@@ -141,7 +141,7 @@ In order to install Xcode, _**do not**_ install it from the App Store since this
 <br/>
 
 - Non-engineers:
-	- Download [this zip file](#todo) and store it in `/Downloads/setup.zip`
+	- Download [this zip file](https://github.com/Betterment/flutter-training/raw/master/scripts/setup.zip) and store it in `/Downloads/setup.zip`
 	- Double click on the zip file to uncompress it
 	- Select **Go**, then **Utilities** from the top menu
 
