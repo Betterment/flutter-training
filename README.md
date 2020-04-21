@@ -3,10 +3,10 @@
 * [What to expect](#what-to-expect?)
 * [Code of conduct](#code-of-conduct)
 * [Prerequisites](#prerequisites)
-	* [Setup](#setup) <br>👆**Important**: Do this a week ahead!
+	* [Setup](setup.md) <br>👆**Important**: Do this a week ahead!
 * [Schedule](#schedule)
 * [Syllabus](#syllabus)
-* [Flutter Tips & Best Practices](#flutter-tips-&-best-practices)
+* [Flutter Tips & Best Practices](https://docs.google.com/document/d/1CgtMonHLhoR2VDQMGCeC-Zg5wNuJvWRPAjZ9_QRBPZo/edit?usp=sharing)
 
 <br>
 
