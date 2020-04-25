@@ -180,6 +180,7 @@ In order to install Xcode, _**do not**_ install it from the App Store since this
 
 		- `./setup.sh`
 		- Press Enter
+		- If you get a 'Command not found' error, type and enter `chmod u+x setup.sh`, and then run `./setup.sh` again
 		- Once the installation completes, move on to the next step.
 
 		<br/>
