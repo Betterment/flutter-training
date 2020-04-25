@@ -187,6 +187,7 @@ In order to install Xcode, _**do not**_ install it from the App Store since this
 
 		- `flutter doctor`
 		- Press Enter
+		- If you get a 'Command not found error', quit the terminal and reopen it. Then run `flutter doctor` again
 		- Make sure that this is what you see.
 
         <br/>
