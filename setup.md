@@ -183,19 +183,6 @@ In order to install Xcode, _**do not**_ install it from the App Store since this
 		- If you get a 'Command not found' error, type and enter `chmod u+x setup.sh`, and then run `./setup.sh` again
 		- Once the installation completes, move on to the next step.
 
-		<br/>
-
-		- `flutter doctor`
-		- Press Enter
-		- If you get a 'Command not found error', quit the terminal and reopen it. Then run `flutter doctor` again
-		- Make sure that this is what you see.
-
-        <br/>
-
-		If "No issues found!" is shown then you are all done setting up Flutter!
-
-		![](img/flutter-doctor.png)
-
 <br/>
 <br/>
 
@@ -228,7 +215,27 @@ Once the installation is done, feel free to close Android Studio.
 <br/>
 <br/>
 
-## 5. Rejoice
+## 5. Check Installation
+
+- Open the Terminal
+
+	- Type the following commands:
+
+		- `flutter doctor`
+		- Press Enter
+		- If you get a 'Command not found error', quit the terminal and reopen it. Then run `flutter doctor` again
+		- Make sure that this is what you see.
+
+        <br/>
+
+		If "No issues found!" is shown then you are all done setting up Flutter!
+
+		![](img/flutter-doctor.png)
+		
+<br/>
+<br/>
+
+## 6. Rejoice
 
 Phew, that was a lot! 
 
