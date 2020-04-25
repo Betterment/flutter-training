@@ -229,6 +229,8 @@ Once the installation is done, feel free to close Android Studio.
         <br/>
 
 		If "No issues found!" is shown then you are all done setting up Flutter!
+		
+		If everything has a checkmark _except_ for the "VS Code" and "Connected device" sections, then you're also good! 
 
 		![](img/flutter-doctor.png)
 		
